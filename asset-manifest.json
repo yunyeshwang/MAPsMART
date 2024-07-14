@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MAPsMART/static/css/main.dc9da010.css",
+    "main.js": "/MAPsMART/static/js/main.5c99580f.js",
+    "static/js/787.4177f587.chunk.js": "/MAPsMART/static/js/787.4177f587.chunk.js",
+    "index.html": "/MAPsMART/index.html",
+    "main.dc9da010.css.map": "/MAPsMART/static/css/main.dc9da010.css.map",
+    "main.5c99580f.js.map": "/MAPsMART/static/js/main.5c99580f.js.map",
+    "787.4177f587.chunk.js.map": "/MAPsMART/static/js/787.4177f587.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc9da010.css",
+    "static/js/main.5c99580f.js"
+  ]
+}
